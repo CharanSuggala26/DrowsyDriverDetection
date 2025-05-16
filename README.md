@@ -64,6 +64,7 @@ keras
 tensorflow
 pygame
 ```
+
 ##❗Notes
 -Make sure your webcam is connected and accessible.
 -Alarm will only sound after a defined number of consecutive frames with closed eyes.
