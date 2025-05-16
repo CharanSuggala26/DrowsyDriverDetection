@@ -2,7 +2,6 @@
 
 A real-time drowsiness detection system that alerts drivers when signs of fatigue are detected using computer vision and deep learning. This project leverages **OpenCV** for video capture and **Convolutional Neural Networks (CNN)** for eye state classification.
 
----
 
 ## 🧠 Overview
 
@@ -13,7 +12,6 @@ Drowsy driving is a major cause of road accidents. This system monitors the driv
 - Alerts user via **sound alarm**
 - Built using Python, OpenCV, and Keras/TensorFlow
 
----
 
 ## 🔍 Features
 
@@ -22,7 +20,7 @@ Drowsy driving is a major cause of road accidents. This system monitors the driv
 - 🔔 Alarm system to alert drowsy drivers
 - 🛠 Modular and customizable code
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -33,7 +31,41 @@ Drowsy driving is a major cause of road accidents. This system monitors the driv
 - Pygame (for alarm)
 - Haar Cascades (for eye detection)
 
+
+
+
 ---
 
-## 📁 Project Structure
+## 🚀 Getting Started
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/drowsy-driver-detection.git
+cd drowsy-driver-detection
+```
+### 2. Install Dependencies
+```bash
+   pip install -r requirements.txt
+```
+### 3. Run the Project
+```bash
+   python main.py
+```
+---
+## 🖼️ Demo
+
+
+## Requirements
+```bash
+opencv-python
+numpy
+keras
+tensorflow
+pygame
+```
+##❗Notes
+-Make sure your webcam is connected and accessible.
+-Alarm will only sound after a defined number of consecutive frames with closed eyes.
+
+## 📬 Contact
