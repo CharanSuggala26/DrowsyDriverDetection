@@ -34,8 +34,6 @@ Drowsy driving is a major cause of road accidents. This system monitors the driv
 
 
 
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -46,14 +44,16 @@ cd drowsy-driver-detection
 ```
 ### 2. Install Dependencies
 ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ### 3. Run the Project
 ```bash
-   python main.py
+python main.py
 ```
----
+
 ## 🖼️ Demo
+
+[🎥 Watch Demo](https://drive.google.com/file/d/15Cyad0Vypq_J39KhNBa6A5JouNkciN1G/view)
 
 
 ## Requirements
