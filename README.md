@@ -53,7 +53,11 @@ python main.py
 
 ## 🖼️ Demo
 
-[🎥 Watch Demo](https://drive.google.com/file/d/15Cyad0Vypq_J39KhNBa6A5JouNkciN1G/view)
+<video width="600" controls>
+  <source src="" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## Requirements
@@ -66,7 +70,7 @@ pygame
 ```
 
 ##❗Notes
--Make sure your webcam is connected and accessible.
--Alarm will only sound after a defined number of consecutive frames with closed eyes.
+Make sure your webcam is connected and accessible.
+Alarm will only sound after a defined number of consecutive frames with closed eyes.
 
 ## 📬 Contact
