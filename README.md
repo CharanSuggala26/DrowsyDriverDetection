@@ -54,23 +54,25 @@ python main.py
 ## 🖼️ Demo
 
 <video width="600" controls>
-  <source src="" type="video/mp4">
+  <source src="https://github.com/CharanSuggala26/DrowsyDriverDetection/Drowsy2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 
 
 ## Requirements
-```bash
+  ```bash
 opencv-python
 numpy
 keras
 tensorflow
 pygame
-```
+  ```
+## ❗ Notes
+-Make sure your webcam is connected and accessible.
+-Alarm will only sound after a defined number of consecutive frames with closed eyes.
 
-##❗Notes
-Make sure your webcam is connected and accessible.
-Alarm will only sound after a defined number of consecutive frames with closed eyes.
 
 ## 📬 Contact
+
+
