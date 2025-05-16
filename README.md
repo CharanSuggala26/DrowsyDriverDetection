@@ -53,10 +53,10 @@ python main.py
 
 ## 🖼️ Demo
 
-<video width="600" controls>
-  <source src="https://github.com/CharanSuggala26/DrowsyDriverDetection/Drowsy2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🖼️ Demo
+
+![Drowsy Driver Detection Demo](https://github.com/CharanSuggala26/DrowsyDriverDetection/blob/main/Drowsy2-ezgif.com-video-to-gif-converter.gif)
+
 
 
 
